@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## Full Stack Software Engineer
 
-Linkedin - [https://www.linkedin.com/in/louis-la/](https://www.linkedin.com/in/louis-la/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - [https://www.linkedin.com/in/louis-la/](https://www.linkedin.com/in/louis-la/)
