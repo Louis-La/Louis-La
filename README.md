@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Welcome to my playground! 👋
 
 <!--
 **Louis-La/Louis-La** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Full Stack Software Engineer
+
+Linkedin - [https://www.linkedin.com/in/louis-la/](https://www.linkedin.com/in/louis-la/)
