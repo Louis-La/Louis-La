@@ -1,4 +1,4 @@
-### Hi there! Welcome to my playground! 👋
+### Hi! My name is Louis and I'm a Full Stack Software Engineer! 👋
 
 <!--
 **Louis-La/Louis-La** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
